@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98830747663",
+    "firebase_url": "https://flutter-timeline.firebaseio.com",
+    "project_id": "flutter-timeline",
+    "storage_bucket": "flutter-timeline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98830747663:android:68687ae958a05f06",
+        "android_client_info": {
+          "package_name": "com.example.flutter_timeline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98830747663-qrfp9q7tnhg9qgsn294ebk9kcn7or9m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb3O53BCYplE5hXmZeeerOQaHTg8P8PUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98830747663-qrfp9q7tnhg9qgsn294ebk9kcn7or9m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
