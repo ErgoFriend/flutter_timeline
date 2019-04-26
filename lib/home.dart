@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_timeline/my_page.dart';
+import 'package:flutter_timeline/sign_in.dart';
 import 'package:flutter_timeline/timeline.dart';
 
 class Home extends StatefulWidget {
@@ -12,7 +12,7 @@ class _HomeState extends State<Home> {
 
   List<Widget> _bodyList = [
     Timeline(),
-    MyPage(),
+    SignInDemo(),
   ];
 
   @override
